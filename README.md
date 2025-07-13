@@ -5,6 +5,9 @@ A new Flutter project made for our term ending evaluation on mobile developpemen
 **Pharma GPS** is a Flutter mobile application designed to help users locate nearby pharmacies quickly and efficiently using GPS and mapping tools.
 
 > ⚠️ **Project in early development**: This version relies heavily on `setState` for state updates and includes some business logic embedded within the UI. Although the usage of provider is present it is necessary to improve the separation of concerns and integration with state management for future versions.
+> For the backend :
+git clone https://github.com/Ben20222021/projet_flutter_backend.git
+cd projet_flutter_backend/localisation
 
 ---
 
@@ -40,8 +43,3 @@ A new Flutter project made for our term ending evaluation on mobile developpemen
 ```bash
 git clone https://github.com/Ben20222021/pharmagps.git
 cd pharmagps
-
-2. **Clone the backend**
-```bash
-git clone https://github.com/Ben20222021/projet_flutter_backend.git
-cd projet_flutter_backend/localisation
